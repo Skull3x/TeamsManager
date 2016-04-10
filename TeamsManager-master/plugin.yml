@@ -1,0 +1,20 @@
+name: TeamsManager
+main: Team\Teams\TeamMain
+author: Skullex
+version: 1.0 inDEV
+api: 
+- 1.0.0
+- 1.1.0
+- 2.0.0
+- 1.13.1
+- 1.13.0
+- 1.14.0
+- 1.12.0
+- 1.10.0
+
+commands:
+    tm:
+        usage : /tm
+        permission: tm.use
+        description : TeamsManager Command, by Skullex
+        default: true
